@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Vue JS**
 
-- 👯 I’m looking to collaborate on [Laravel](https://laravel.com/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/ramma-stack?tab=repositories](https://github.com/ramma-stack?tab=repositories)
 
 - 💬 Ask me about **Laravel, livewire and tailwind**
